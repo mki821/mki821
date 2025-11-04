@@ -4,35 +4,35 @@
 
 <blockquote> <strong> 🖥️ 익숙해져서 능숙한 업무가 가능함 </strong> </blockquote>
 <p>
-<img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/CSharp-ABB9CC?style=flat-square&logo=c&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/CSharp-ABB9CC?style=flat-square&logo=c&logoColor=FFFFFF">
 </p>
-<blockquote> <strong> 📺 익숙하진 않지만 업무가 가능함 </strong> </blockquote>
+  <blockquote> <strong> 📺 익숙하진 않지만 업무가 가능함 </strong> </blockquote>
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Win32 API-CC599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=FFFFFF">
 </p>
 <blockquote> <strong> 📖 공부한 경험이 있어 금방 익숙해질 수 있음 </strong> </blockquote>
 <p>
-<img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=FFFFFF">
 </p>
 
 -----
 
 ## 🏆 수상 이력
-- 2023 2학기 엔진 우수작 3등
-- 2023 2학기 엔진 교과우수상
-- 2023 GGM Stove-Indie 게임잼 3등
-- 2024 1학기 엔진 우수작 3등
-- 2024 1학기 엔진 교과우수상
-- 2024 SDHS 게임잼 3등
-- 2024 2학기 컴퓨터 네트워크 교과우수상
+- 2025 KWC 동상
 
 ---
 
+## 🛩️  경험
+- 2025 PlayX4 전시
+- 2025 BIC 본선 진출
+
+---
 ## 📜 보유 자격증
 - 정보처리기능사
 - ITQ 한쇼 B등급
